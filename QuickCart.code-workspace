@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "QuickCart",
+			"path": "."
+		},
+		{
+			"name": "node_modules",
+			"path": "../t-store/node_modules"
+		}
+	],
+	"settings": {}
+}
